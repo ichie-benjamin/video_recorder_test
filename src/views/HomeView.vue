@@ -183,6 +183,7 @@ export default {
           //check if only audio is selected then stream to mediaRecorder
         }
       } catch(err) {
+        loading.value = false
         console.log(err)
         alert(err);
       }
