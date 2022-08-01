@@ -141,9 +141,9 @@
 
   </main>
 
-  <div  class="cam_container">
-    <video  ref="camera_container" :width="450" :height="337.5" autoplay></video>
-  </div>
+<!--  <div  class="cam_container">-->
+<!--    <video  ref="camera_container" :width="450" :height="337.5" autoplay></video>-->
+<!--  </div>-->
 
 </template>
 
